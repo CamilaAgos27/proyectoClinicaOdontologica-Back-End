@@ -1,0 +1,28 @@
+[2022-12-12 23:41:41] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del odontologo con apellido: Camila
+[2022-12-12 23:41:41] [ INFO ] [OdontologoService:37] Se inició una operación de búsqueda del odontologo con id=1
+[2022-12-12 23:41:41] [ INFO ] [OdontologoService:54] Se inició una operación de listado de odontologos
+[2022-12-12 23:41:41] [ INFO ] [OdontologoService:31] Se inició una operación de actualización del odontologo con id=1
+[2022-12-12 23:41:41] [ INFO ] [OdontologoService:37] Se inició una operación de búsqueda del odontologo con id=1
+[2022-12-12 23:41:42] [ INFO ] [OdontologoService:37] Se inició una operación de búsqueda del odontologo con id=1
+[2022-12-12 23:41:42] [ WARN ] [OdontologoService:45] Se realizo una operación de eliminación del odontologo conid=1
+[2022-12-12 23:41:42] [ INFO ] [OdontologoService:37] Se inició una operación de búsqueda del odontologo con id=1
+[2022-12-12 23:43:12] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del odontologo con apellido: Camila
+[2022-12-12 23:43:12] [ INFO ] [OdontologoService:37] Se inició una operación de búsqueda del odontologo con id=1
+[2022-12-12 23:43:12] [ INFO ] [OdontologoService:54] Se inició una operación de listado de odontologos
+[2022-12-12 23:43:12] [ INFO ] [OdontologoService:31] Se inició una operación de actualización del odontologo con id=1
+[2022-12-12 23:43:12] [ INFO ] [OdontologoService:37] Se inició una operación de búsqueda del odontologo con id=1
+[2022-12-12 23:43:12] [ INFO ] [OdontologoService:37] Se inició una operación de búsqueda del odontologo con id=1
+[2022-12-12 23:43:12] [ WARN ] [OdontologoService:45] Se realizo una operación de eliminación del odontologo conid=1
+[2022-12-12 23:43:12] [ INFO ] [OdontologoService:37] Se inició una operación de búsqueda del odontologo con id=1
+[2022-12-12 23:43:37] [ INFO ] [OdontologoService:28] Se inició una operación de guardado del paciente por nombre: Camila
+[2022-12-12 23:43:37] [ INFO ] [OdontologoService:51] Se inició una operación de búsqueda del paciente con id=1
+[2022-12-12 23:43:37] [ INFO ] [OdontologoService:56] Se inició una operación de listado de paciente
+[2022-12-12 23:43:37] [ INFO ] [OdontologoService:33] Se inició una operación de actualización del paciente con id=1
+[2022-12-12 23:43:37] [ INFO ] [OdontologoService:51] Se inició una operación de búsqueda del paciente con id=1
+[2022-12-12 23:43:37] [ INFO ] [OdontologoService:51] Se inició una operación de búsqueda del paciente con id=1
+[2022-12-12 23:43:37] [ WARN ] [OdontologoService:41] Se realizo una operación de eliminación del paciente conid=1
+[2022-12-12 23:43:37] [ INFO ] [OdontologoService:51] Se inició una operación de búsqueda del paciente con id=1
+[2022-12-12 23:44:13] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del odontologo con apellido: ana
+[2022-12-12 23:44:13] [ INFO ] [OdontologoService:28] Se inició una operación de guardado del paciente por nombre: Gomez
+[2022-12-12 23:44:13] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del odontologo con apellido: Sylvia
+[2022-12-12 23:44:13] [ INFO ] [OdontologoService:28] Se inició una operación de guardado del paciente por nombre: Gomez
